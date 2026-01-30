@@ -1,0 +1,24 @@
+{
+    "steps": {
+        "Step 1: Extract from Figma": "done",
+        "Step 2: Export Ground Truth": "done",
+        "Step 3: Visual Analysis": "done",
+        "Step 4: Component & Interaction Audit": "done",
+        "Step 5: Scaffold Project": "done",
+        "Step 6: Generate Components": "done",
+        "Step 7: Deploy & Push": "in_progress"
+    },
+    "artifacts": {
+        "figma_file_key": "p0TUYoS6pIM3cWKCCSnhpl",
+        "preview_url": "https://ta-01kg8gd2acp0yh84zf34qmg9zq-5173.wo-j5j8sboj3qu15fy8918xajh9c.w.modal.host"
+    },
+    "ground_truth": {
+        "frames": [
+            {"name": "HF - Home Car Rent", "node_id": "44:14919", "gt_image": "44-14919.png", "target_route": "/"},
+            {"name": "HF - Category Car Rent", "node_id": "44:15417", "gt_image": "44-15417.png", "target_route": "/category"},
+            {"name": "HF - Detail Car Rent", "node_id": "44:15823", "gt_image": "44-15823.png", "target_route": "/detail"},
+            {"name": "HF - Payment Car Rent", "node_id": "44:16236", "gt_image": "44-16236.png", "target_route": "/payment"},
+            {"name": "HF - Dashboard Admin Car Rent", "node_id": "44:16499", "gt_image": "44-16499.png", "target_route": "/admin"}
+        ]
+    }
+}
